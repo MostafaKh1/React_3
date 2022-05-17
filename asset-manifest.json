@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_3/static/css/main.280e828e.css",
+    "main.js": "/React_3/static/js/main.f87a3c9a.js",
+    "static/media/pyramids.png": "/React_3/static/media/pyramids.99bfcc80ad72638c2276.png",
+    "static/media/water.png": "/React_3/static/media/water.15ca32fcbd2c02a29ec9.png",
+    "static/media/ship.png": "/React_3/static/media/ship.885c84212dddd303b4e9.png",
+    "static/media/Mountn.png": "/React_3/static/media/Mountn.bdf298653a3e0e729211.png",
+    "index.html": "/React_3/index.html",
+    "main.280e828e.css.map": "/React_3/static/css/main.280e828e.css.map",
+    "main.f87a3c9a.js.map": "/React_3/static/js/main.f87a3c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280e828e.css",
+    "static/js/main.f87a3c9a.js"
+  ]
+}
